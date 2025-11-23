@@ -10,8 +10,8 @@ Contains two options. Type 1 is based off of the revenant energy bar. Type 2 is 
 # Type 1
 
 <img width="795" height="191" alt="image" src="https://github.com/user-attachments/assets/1fdaa35d-ee87-4803-9541-1f6b97611dbe" />
-<img width="439" height="211" alt="image" src="https://github.com/user-attachments/assets/c0203220-6d16-4f73-bbc0-70e4d619d125" />
-<img width="416" height="224" alt="image" src="https://github.com/user-attachments/assets/8c60e80e-55a9-476d-87d6-8dd53f60e66f" />
+<img width="408" height="174" alt="image" src="https://github.com/user-attachments/assets/26cd25c7-8c99-4da1-a954-ce3d022d135a" />
+<img width="418" height="217" alt="image" src="https://github.com/user-attachments/assets/30214aca-e6db-409f-ba95-1cec7a5c2f18" />
 
 # Type 2
 
@@ -20,16 +20,16 @@ Contains two options. Type 1 is based off of the revenant energy bar. Type 2 is 
 # How to use
 Simply download the zip file to your reffect root folder like so:
 
-<img width="458" height="215" alt="image" src="https://github.com/user-attachments/assets/77e90942-1808-44e2-87e8-f3eeab4be02a" />
-
+<img width="496" height="214" alt="image" src="https://github.com/user-attachments/assets/e6c69a3e-33ca-49e2-9688-f2400130c42f" />
 
 Then right click > Extract here (the necessary files will be added to the packs and icons subfolders).
 
-Then, return to reffect ingame and refresh packs. To select which type you want to use, expand the Berserk pack and enable / disable Type 1 or 2:
+Then, return to reffect ingame and refresh packs. Select your interface size of choice:
 
-<img width="893" height="290" alt="image" src="https://github.com/user-attachments/assets/dde3d4d5-5b41-40ee-9903-02db8abff4a6" />
+<img width="217" height="114" alt="image" src="https://github.com/user-attachments/assets/5c4c333f-613a-4602-9191-ee3dda52eddc" />
 
+Finally, expand the interface and enable / disable Type 1 or 2:
 
-# Notes
+<img width="201" height="72" alt="image" src="https://github.com/user-attachments/assets/b5c15872-14ff-4ad6-868b-c1f1c7d8d908" />
 
-This effect is made with Normal interface size. If you use a different one, you can resize all the elements at once by right-clicking on the pack and selecting resize. Alternatively, you can move the pack's position on screen if needed, though it should be aligned by default.
+<img width="635" height="287" alt="image" src="https://github.com/user-attachments/assets/34e5cc75-86ea-43ef-b87d-cbaab337e354" />
